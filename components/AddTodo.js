@@ -23,7 +23,7 @@ function AddTodo({addTodo}) {
         <View>
             <TextInput 
                 style={styles.input}
-                placeholder='Add Todo...'
+                placeholder='Add New Todo...'
                 value={todo}
                 onChangeText={onChangeTextHanlder}
             />

@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
   },
   text: {
     color: '#000',
-    fontSize: '24'
+    fontSize: 24
   },
   content: {
     padding: 40
